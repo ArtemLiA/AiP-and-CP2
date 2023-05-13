@@ -59,12 +59,6 @@ public:
 
 };
 
-
-class Builder{
-
-};
-
-
 int main() {
     Game game;
     std::cout << "Game has been started! ";
