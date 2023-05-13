@@ -1,0 +1,3 @@
+C:/Users/lyaho/CS_Projects/C++/Computer practice 2/Conditional variable/cmake-build-debug/CMakeFiles/Threads2.dir
+C:/Users/lyaho/CS_Projects/C++/Computer practice 2/Conditional variable/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lyaho/CS_Projects/C++/Computer practice 2/Conditional variable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
