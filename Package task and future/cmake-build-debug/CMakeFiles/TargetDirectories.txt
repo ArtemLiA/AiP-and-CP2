@@ -1,0 +1,3 @@
+C:/Users/lyaho/CS_Projects/C++/Computer practice 2/Package task and future/cmake-build-debug/CMakeFiles/Package_task_and_future.dir
+C:/Users/lyaho/CS_Projects/C++/Computer practice 2/Package task and future/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lyaho/CS_Projects/C++/Computer practice 2/Package task and future/cmake-build-debug/CMakeFiles/rebuild_cache.dir
